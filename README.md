@@ -8,3 +8,5 @@ Setupper.sh sets up files in ucloud virtual environment, must be edited with you
 filex.sh contains code for dialog box and cd function
 
 use ```source filex```
+
+when you are in the desired directory use cancel button and then press yes.
