@@ -1,0 +1,116 @@
+# Set aspect ratio
+aspect = 0
+
+# Set separator (for multiple widgets output)
+separate_widget = "__"
+
+# Set tab length (for textbox tab-conversion)
+tab_len = 0
+
+# Make tab-traversal for checklist, etc., include the list
+visit_items = OFF
+
+# Shadow dialog boxes? This also turns on color
+use_shadow = OFF
+
+# Turn color support ON or OFF
+use_colors = ON
+
+# Screen color
+screen_color = (BLACK,BLACK,ON)
+
+# Shadow color
+shadow_color = (WHITE,WHITE,ON)
+
+# Dialog box color
+dialog_color = (WHITE,WHITE,OFF)
+
+# Dialog box title color
+title_color = (GREEN,WHITE,ON)
+
+# Dialog box border color
+border_color = (WHITE,WHITE,ON)
+
+# Active button color
+button_active_color = (GREEN,GREEN,ON)
+
+# Inactive button color
+button_inactive_color = (WHITE,WHITE,ON)
+
+# Active button key color
+button_key_active_color = (BLACK,BLACK,ON)
+
+# Inactive button key color
+button_key_inactive_color = (WHITE,WHITE,ON)
+
+# Active button label color
+button_label_active_color = (GREEN,GREEN,ON)
+
+# Inactive button label color
+button_label_inactive_color = (WHITE,WHITE,ON)
+
+# Input box color
+inputbox_color = (GREEN,GREEN,OFF)
+
+# Input box border color
+inputbox_border_color = (GREEN,GREEN,ON)
+
+# Search box color
+searchbox_color = (GREEN,GREEN,OFF)
+
+# Search box title color
+searchbox_title_color = (GREEN,WHITE,ON)
+
+# Search box border color
+searchbox_border_color = (GREEN,GREEN,ON)
+
+# File position indicator color
+position_indicator_color = (GREEN,GREEN,ON)
+
+# Menu box color
+menubox_color = (WHITE,WHITE,OFF)
+
+# Menu box border color
+menubox_border_color = (WHITE,WHITE,ON)
+
+# Item color
+item_color = (WHITE,WHITE,OFF)
+
+# Selected item color
+item_selected_color = (WHITE,WHITE,ON)
+
+# Tag color
+tag_color = (WHITE,WHITE,OFF)
+
+# Selected tag color
+tag_selected_color = (GREEN,GREEN,ON)
+
+# Tag key color
+tag_key_color = (WHITE,WHITE,OFF)
+
+# Selected tag key color
+tag_key_selected_color = (GREEN,GREEN,ON)
+
+# Check box color
+check_color = (WHITE,GREEN,OFF)
+
+# Selected check box color
+check_selected_color = (GREEN,WHITE,ON)
+
+# Up arrow color
+uarrow_color = (WHITE,GREEN,ON)
+
+# Down arrow color
+darrow_color = (WHITE,GREEN,ON)
+
+# Item help-text color
+itemhelp_color = (WHITE,GREEN,OFF)
+
+# Active form text color
+form_active_text_color = (GREEN,WHITE,ON)
+
+# Form text color
+form_text_color = (GREEN,WHITE,ON)
+
+# Readonly form item color
+form_item_readonly_color = (GREEN,WHITE,ON)
