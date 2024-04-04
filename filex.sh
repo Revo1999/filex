@@ -1,5 +1,8 @@
 #!/bin/bash
 
+
+#Written by Victor Rasmussen (github = Revo1999)
+
 # Function to list folders in the current directory
 list_folders() {
     local options=$(ls -d */ .. 2>/dev/null | awk -F/ '{print $1 " " $1}')
