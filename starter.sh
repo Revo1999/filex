@@ -1,3 +1,5 @@
+#FileX is written by Victor Ramussen (github = Revo1999)
+
 green='\033[0;32m'
 yellow = '\033[0;33m'
 
